@@ -10,7 +10,7 @@
 
 | Project | What it does | Status |
 |---|---|---|
-| **[inspecto](https://github.com/rahulbhardwaj94/inspecto)** | Claude Code session quality analyzer — 12 behavioral & cost metrics from your session logs | 📦 **2,200+ downloads** on [npm](https://www.npmjs.com/package/inspecto) |
+| **[inspecto](https://github.com/rahulbhardwaj94/inspecto)** | Claude Code session quality analyzer — 12 behavioral & cost metrics from your session logs | 📦 **2,500+ downloads** on [npm](https://www.npmjs.com/package/inspecto) |
 | **[timebomb](https://github.com/rahulbhardwaj94/timebomb)** | Static analysis for code that fails *later* — setTimeout int32 overflows, unbounded `Promise.all`, sequential awaits in loops | Found real bugs in inspecto itself 🔥 |
 | **[memory-os](https://github.com/rahulbhardwaj94/memory-os)** | Local-first AI memory vault — NestJS + PostgreSQL + pgvector, exposed via Model Context Protocol | Active |
 
